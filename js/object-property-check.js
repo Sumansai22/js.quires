@@ -1,5 +1,5 @@
 let user = {
-  name: "sumanth",
-  email: "sumanth@gmail.com.com"
+    name: "sumanth",
+    email: "sumanth@gmail.com"
 };
-console.log("email" in user);
+console.log(user.hasOwnProperty("email"));

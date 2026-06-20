@@ -1,0 +1,1 @@
+const isEligible=(age)=>age>=18; console.log(isEligible(20));

@@ -1,0 +1,1 @@
+const area=(l,w)=>l*w; console.log(area(10,5));

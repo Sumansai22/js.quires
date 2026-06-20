@@ -1,0 +1,1 @@
+function checkResult(cb){cb("Pass")} checkResult(r=>console.log(`Result: ${r}`));

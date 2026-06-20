@@ -1,0 +1,1 @@
+const prices=[499,999,1499,299,799]; console.log(prices.map(p=>+(p*0.9).toFixed(1)));

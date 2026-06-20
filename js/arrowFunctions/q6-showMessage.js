@@ -1,0 +1,1 @@
+const showMessage=()=>console.log("Learning JavaScript"); showMessage();

@@ -1,0 +1,1 @@
+function getColor(cb){cb("Blue")} getColor(c=>console.log(`My favorite color is ${c}`));

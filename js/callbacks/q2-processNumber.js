@@ -1,0 +1,1 @@
+function processNumber(cb){cb(25)} processNumber(n=>console.log(`Number received: ${n}`));

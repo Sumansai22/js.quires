@@ -1,0 +1,1 @@
+function placeOrder(cb){console.log("Order Placed");cb()} placeOrder(()=>console.log("Order Confirmed"));

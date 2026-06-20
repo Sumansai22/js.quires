@@ -1,5 +1,8 @@
 let user = {
-  name: "sumanth",
-  email: "sumanth@gmail.com.com"
+    name: "Rahul",
+    email: "abc@gmail.com"
 };
-console.log("email" in user);
+
+document.getElementById("title").innerText = "Q22 - Object Property Check";
+
+document.getElementById("output").innerHTML = user.hasOwnProperty("email");

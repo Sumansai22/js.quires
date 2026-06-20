@@ -1,0 +1,1 @@
+const salaries=[25000,30000,45000,50000,35000]; console.log(salaries.reduce((a,b)=>a+b,0));

@@ -1,0 +1,1 @@
+const getMax=(a,b)=>a>b?a:b; console.log(getMax(10,20));

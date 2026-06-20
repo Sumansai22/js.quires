@@ -1,0 +1,1 @@
+const users=["Rahul","Priya","Kiran","Sneha"]; console.log(users.map(u=>`Welcome ${u}`));

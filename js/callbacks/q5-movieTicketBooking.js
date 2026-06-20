@@ -1,0 +1,1 @@
+function bookTicket(cb){console.log("Booking Ticket...");cb()} bookTicket(()=>console.log("Ticket Booked Successfully"));

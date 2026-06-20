@@ -1,0 +1,1 @@
+const marks=[35,78,90,25,60,48,82]; console.log(marks.filter(m=>m>=50));
